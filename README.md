@@ -10,3 +10,12 @@ A secure and scalable backend Todo REST API built with Node.js, Express, Postgre
   - Centralized error handling
   - Imput validation using schemas
      Environment variables are managed using an .env file (not committed to the repository).
+
+# Tech Stack
+- Node.js
+- Express.js
+- PostgreSQL
+- JWT
+- bcrypt
+- Zod
+- pg (node-postgres)
