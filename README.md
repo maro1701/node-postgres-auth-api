@@ -19,3 +19,9 @@ A secure and scalable backend Todo REST API built with Node.js, Express, Postgre
 - bcrypt
 - Zod
 - pg (node-postgres)
+
+  # Setup & Installation
+  - Clone the repository
+    ```bash
+    git clone https://github.com/your-username/node-postgres-auth-api.git
+    cd node-postgres-auth-api
